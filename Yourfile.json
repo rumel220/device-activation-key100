@@ -34,5 +34,11 @@
         "key": "riad20",
         "expirydate": "17-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8c0e62265c761390",
+        "key": "romjn20",
+        "expirydate": "18-09-2025",
+        "Allowoffline": false
     }
 ]
