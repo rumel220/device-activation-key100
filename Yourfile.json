@@ -46,5 +46,11 @@
         "key": "nahid20",
         "expirydate": "19-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c12f6cd4827928a6",
+        "key": "Seajurkh20",
+        "expirydate": "19-09-2025",
+        "Allowoffline": false
     }
 ]
