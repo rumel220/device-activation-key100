@@ -40,5 +40,11 @@
         "key": "romjn20",
         "expirydate": "18-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "96a780a75dbd19f3",
+        "key": "nahid20",
+        "expirydate": "19-09-2025",
+        "Allowoffline": false
     }
 ]
