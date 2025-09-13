@@ -64,5 +64,11 @@
         "key": "Sadman20",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "40b2ecd3d8f179cc",
+        "key": "Rohim20",
+        "expirydate": "21-09-2025",
+        "Allowoffline": false
     }
 ]
