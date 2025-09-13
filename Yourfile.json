@@ -70,5 +70,11 @@
         "key": "Rohim20",
         "expirydate": "21-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f7235439863bcd08",
+        "key": "anarol20",
+        "expirydate": "21-09-2025",
+        "Allowoffline": false
     }
 ]
