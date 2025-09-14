@@ -76,5 +76,11 @@
         "key": "anarol20",
         "expirydate": "21-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ec81c4af2e6aff4b",
+        "key": "aryhan20",
+        "expirydate": "18-09-2025",
+        "Allowoffline": false
     }
 ]
