@@ -82,5 +82,11 @@
         "key": "aryhan10",
         "expirydate": "18-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7ee80c8b1826464d",
+        "key": "500",
+        "expirydate": "16-10-2025",
+        "Allowoffline": false
     }
 ]
