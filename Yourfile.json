@@ -88,5 +88,11 @@
         "key": "500",
         "expirydate": "16-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f6d7ea7aa1845c79",
+        "key": "Black20",
+        "expirydate": "16-10-2025",
+        "Allowoffline": false
     }
 ]
