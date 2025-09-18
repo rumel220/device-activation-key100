@@ -94,5 +94,11 @@
         "key": "Black20",
         "expirydate": "16-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0beb47bd24f1a9ce",
+        "key": "rifat20",
+        "expirydate": "25-09-2025",
+        "Allowoffline": false
     }
 ]
