@@ -100,5 +100,11 @@
         "key": "rifat20",
         "expirydate": "25-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2aab16ae3375db4a",
+        "key": "ayon04",
+        "expirydate": "23-09-2025",
+        "Allowoffline": false
     }
 ]
