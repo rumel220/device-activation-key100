@@ -106,5 +106,11 @@
         "key": "ayon04",
         "expirydate": "23-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3d4d26d9e23de23f",
+        "key": "paryho20",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
 ]
