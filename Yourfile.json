@@ -112,5 +112,11 @@
         "key": "paryho20",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "77c953596ee339ed",
+        "key": "tas200",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
 ]
