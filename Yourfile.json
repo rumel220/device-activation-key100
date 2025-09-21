@@ -118,5 +118,11 @@
         "key": "tas200",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e44fb44ff64376a4",
+        "key": "Miraz001",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
 ]
