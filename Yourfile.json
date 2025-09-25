@@ -124,5 +124,11 @@
         "key": "Miraz001",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e6ef95141fb820e4",
+        "key": "Seajurkh25",
+        "expirydate": "29-09-2025",
+        "Allowoffline": false
     }
 ]
