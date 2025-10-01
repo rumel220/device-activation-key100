@@ -148,5 +148,11 @@
         "key": "shamim04",
         "expirydate": "05-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0234858a54c4128a",
+        "key": "bai20",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
