@@ -142,5 +142,11 @@
         "key": "Asif02",
         "expirydate": "03-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5b7b05327e4f2700",
+        "key": "shamim04",
+        "expirydate": "05-10-2025",
+        "Allowoffline": false
     }
 ]
