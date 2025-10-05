@@ -160,5 +160,11 @@
         "key": "hriboy03",
         "expirydate": "07-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7c97a8231feb751d",
+        "key": "foysal03",
+        "expirydate": "08-10-2025",
+        "Allowoffline": false
     }
 ]
