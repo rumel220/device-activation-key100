@@ -166,5 +166,11 @@
         "key": "foysal03",
         "expirydate": "08-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a5a728bf14262bff",
+        "key": "ripon03",
+        "expirydate": "09-10-2025",
+        "Allowoffline": false
     }
 ]
