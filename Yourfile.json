@@ -172,5 +172,11 @@
         "key": "ripon03",
         "expirydate": "09-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "284889ccb8a4770e",
+        "key": "antor03",
+        "expirydate": "10-10-2025",
+        "Allowoffline": false
     }
 ]
