@@ -178,5 +178,11 @@
         "key": "antor03",
         "expirydate": "10-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d5391d9a44fd7cf2",
+        "key": "Aakash03",
+        "expirydate": "14-10-2025",
+        "Allowoffline": false
     }
 ]
