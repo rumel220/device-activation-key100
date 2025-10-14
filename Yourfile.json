@@ -202,5 +202,11 @@
         "key": "user03",
         "expirydate": "17-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b92a5b48fc3fdc2a",
+        "key": "bigo04",
+        "expirydate": "17-10-2025",
+        "Allowoffline": false
     }
 ]
