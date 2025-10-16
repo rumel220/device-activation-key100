@@ -214,5 +214,11 @@
         "key": "sagor03",
         "expirydate": "17-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7f2c355ed8475f59",
+        "key": "Sakib04",
+        "expirydate": "20-10-2025",
+        "Allowoffline": false
     }
 ]
