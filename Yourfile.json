@@ -226,5 +226,11 @@
         "key": "Ifran02",
         "expirydate": "19-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2bb88b2aa1f92049",
+        "key": "dark04",
+        "expirydate": "21-10-2025",
+        "Allowoffline": false
     }
 ]
