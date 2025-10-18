@@ -244,5 +244,11 @@
         "key": "rasel07",
         "expirydate": "25-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b93895fea7c2ff2b",
+        "key": "nob04",
+        "expirydate": "22-10-2025",
+        "Allowoffline": false
     }
 ]
