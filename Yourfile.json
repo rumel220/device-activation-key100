@@ -238,5 +238,11 @@
         "key": "aakash04",
         "expirydate": "22-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bf49a112560b7785",
+        "key": "rasel07",
+        "expirydate": "25-10-2025",
+        "Allowoffline": false
     }
 ]
