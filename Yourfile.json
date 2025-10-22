@@ -250,5 +250,11 @@
         "key": "nob04",
         "expirydate": "22-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6c6167b2b182fb5a",
+        "key": "rayhan03",
+        "expirydate": "25-10-2025",
+        "Allowoffline": false
     }
 ]
