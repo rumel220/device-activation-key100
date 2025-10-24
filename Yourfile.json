@@ -262,5 +262,11 @@
         "key": "raj05",
         "expirydate": "28-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "59ff800c9a90ba91",
+        "key": "rakib04",
+        "expirydate": "28-10-2025",
+        "Allowoffline": false
     }
 ]
