@@ -256,5 +256,11 @@
         "key": "rayhan03",
         "expirydate": "25-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c12aa24c2a85836a",
+        "key": "raj05",
+        "expirydate": "28-10-2025",
+        "Allowoffline": false
     }
 ]
