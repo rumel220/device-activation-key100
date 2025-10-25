@@ -268,5 +268,11 @@
         "key": "rakib04",
         "expirydate": "28-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a4dd3983abfedc93",
+        "key": "limon003",
+        "expirydate": "26-1-2025",
+        "Allowoffline": false
     }
 ]
