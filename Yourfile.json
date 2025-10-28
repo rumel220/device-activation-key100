@@ -280,5 +280,11 @@
         "key": "seajur30",
         "expirydate": "25-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a2da166e75e28009",
+        "key": "haque04",
+        "expirydate": "31-10-2025",
+        "Allowoffline": false
     }
 ]
