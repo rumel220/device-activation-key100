@@ -286,5 +286,11 @@
         "key": "haque04",
         "expirydate": "31-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b6195ed9b4935571",
+        "key": "sakib04",
+        "expirydate": "03-11-2025",
+        "Allowoffline": false
     }
 ]
